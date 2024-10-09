@@ -1,4 +1,4 @@
-# Report on Classification Models and Dataset Analysis
+# Classification Models and Dataset Analysis
 
 ## 1. **Introduction**
 
